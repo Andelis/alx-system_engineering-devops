@@ -1,2 +1,2 @@
 #!/bin/bash
-bash_script.sh
+ls -ltur | tail -10
